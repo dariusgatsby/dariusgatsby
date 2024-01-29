@@ -5,7 +5,7 @@
 - 👨‍💻 Tech I'm familiar with: AWS and its core services (EC2, S3, Route53, Lambda, API gateway etc), Docker 🐳(thanks Bret!), Python 🐍, Linux 🐧, Git, and cybersecurity best practices.
 - 📫 Ways to reach me: email: [dariusid08@gmail.com](dariusid08@gmail.com), [Linkedin](https://www.linkedin.com/in/darius-daugherty/) 
 - ⚡ Fun fact: I believe confidence in ones own ability is the only way to move forward in life 🧘‍♂️ ... and projects.
-- Check out [my cloud resume](https://dariuscloudresume.com)!
+- Check out [my cloud resume](https://dariuscloudresume.com)! (I need to update it 🤓)
 <!---
 dariusgatsby/dariusgatsby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
